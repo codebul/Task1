@@ -1,0 +1,12 @@
+
+.courses .course .course-image{
+	margin-right: 0.5rem;
+	position: relative;	
+	display: flex;
+	flex-direction: column;
+}
+
+.courses .course .course-image img{
+    border-radius: 15px;
+    width: 500px;
+}

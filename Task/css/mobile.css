@@ -1,0 +1,44 @@
+#navbar {
+	flex-direction: column;
+	padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    overflow: hidden;
+    height: 80px;
+}
+
+#trainings .items{
+    flex-direction: column;    
+}
+
+#trainings .items .item {
+    width: 100%;
+}
+
+
+.courses .course{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.courses .course .course-info{
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+.courses .course .course-image img{
+    border-radius: 18px;
+    width: 300px;
+}
+
+
+#contact .contact-form{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+
